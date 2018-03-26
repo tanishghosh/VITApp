@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">VIT App</string>
+
+
+    <string name="urlnow">http://www.google.com</string>
 </resources>
